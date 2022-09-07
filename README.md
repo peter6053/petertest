@@ -1,7 +1,7 @@
 #Yoyo Android Dev take home test
 
 An app to fetch Photos from the nasa api
-![milkway](https://user-images.githubusercontent.com/35918656/188885680-fd164c89-1d9f-48ae-b1a3-a56f33ff6ff0.jpeg)
+
 
 
 
